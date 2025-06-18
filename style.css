@@ -1,0 +1,8 @@
+/* Stil za opise ispod slika */
+.foto-caption {
+    font-size: 20px; /* Veći font, možete prilagoditi */
+    font-weight: bold; /* Podebljani tekst radi veće uočljivosti */
+    margin-top: 10px; /* Razmak od slike */
+    color: #333; /* Boja teksta, može biti bilo koja */
+    text-align: center; /* Centriranje teksta */
+}
